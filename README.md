@@ -21,3 +21,11 @@ This Rust-based CLI app accepts a student's details, calculates their average sc
 
 ```bash
 cargo run
+
+You will be prompted to enter:
+
+Student name
+
+Number of subjects
+
+Total marks
