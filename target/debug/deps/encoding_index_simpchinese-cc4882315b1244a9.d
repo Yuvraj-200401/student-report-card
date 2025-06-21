@@ -1,0 +1,9 @@
+/mnt/c/Users/HP/Desktop/Blockchain Project/TO-DO APP/student_report_card/target/debug/deps/libencoding_index_simpchinese-cc4882315b1244a9.rmeta: /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/mnt/c/Users/HP/Desktop/Blockchain Project/TO-DO APP/student_report_card/target/debug/deps/libencoding_index_simpchinese-cc4882315b1244a9.rlib: /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/mnt/c/Users/HP/Desktop/Blockchain Project/TO-DO APP/student_report_card/target/debug/deps/encoding_index_simpchinese-cc4882315b1244a9.d: /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs:
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs:
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs:
