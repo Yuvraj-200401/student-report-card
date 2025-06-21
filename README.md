@@ -1,3 +1,4 @@
+![Rust](https://img.shields.io/badge/Built%20with-Rust-orange?style=for-the-badge&logo=rust)
 # 🎓 Rust Student Report Card Generator
 
 This Rust-based CLI app accepts a student's details, calculates their average score, assigns a grade, and generates a PDF report card.
